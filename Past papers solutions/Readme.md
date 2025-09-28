@@ -2,8 +2,8 @@
 Here are the solutions of all released Physics GRE papers!
 
 ## GR9277
-![Page 1](Physics-GRE-prep/Past papers solutions/1992/1992 solutions_annotated-1.png)
-![Page 2](Physics-GRE-prep/Past papers solutions/1992/1992 solutions_annotated-2.png)
+- [Algebra Notes (PDF)]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1I0dJifQ4VJGL3VmC7fz7iZk35xUpVF1A/view?usp=sharing))
+
 
 
 
